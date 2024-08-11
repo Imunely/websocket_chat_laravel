@@ -15,6 +15,7 @@
     php artisan key:generate
     6. Далее миграции
     php artisan migrate
+    6.1 Обновляем в .env данные для PUSHER
     7. Фронтенд
     npm install
     8.  npm run dev
